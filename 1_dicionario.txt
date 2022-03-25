@@ -1,1 +1,16 @@
+Arquitetura de Sistema:a estrutura fundamental e unificadora do sistema definida sob o ponto de vista de elementos do sistema, interfaces, processos, restrições e comportamentos
 
+Engenharia de software:capacita as pessoas com a utilização de teorias, técnicas e ferramentas da Ciência da Computação para produção e desenvolvimento de sistemas. Por meio da análise, coleta e processamento de dados, ainda identificam potenciais falhas nesses produtos e criam soluções de alta performance.
+
+Requisito de software:são as ações que o software deve executar, possuindo características e condições próprias, de forma a automatizar uma tarefa de um processo de negócio
+
+Sistema:é um conjunto ordenado de elementos que se encontram interligados e que interagem entre si. O conceito é utilizado tanto para definir um conjunto de conceitos como objetos reais dotados de organização
+
+Sistema informatizado ou computacional:
+update:
+upgrade:
+Sistemas de informação empresariais:
+Sistemas de colaboração:
+Sistemas de gestão da cadeia de suprimentos:
+Sistemas inteligentes de apoio à decisão:
+Sistemas de gestão do conhecimento:
