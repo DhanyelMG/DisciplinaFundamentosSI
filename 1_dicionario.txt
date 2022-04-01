@@ -1,39 +1,58 @@
-Arquitetura de Sistema:a estrutura fundamental e unificadora do sistema definida sob o ponto de vista de elementos do sistema, interfaces, processos, restrições e comportamentos
+Arquitetura de Sistema:a estrutura fundamental e unificadora do sistema definida sob o ponto de vista de elementos do sistema, interfaces, 
+processos, restrições e comportamentos
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Engenharia de software:capacita as pessoas com a utilização de teorias, técnicas e ferramentas da Ciência da Computação para produção e desenvolvimento de sistemas. Por meio da análise, coleta e processamento de dados, ainda identificam potenciais falhas nesses produtos e criam soluções de alta performance.
+Engenharia de software:capacita as pessoas com a utilização de teorias, técnicas e ferramentas da Ciência da Computação para produção e 
+desenvolvimento de sistemas. Por meio da análise, coleta e processamento de dados, ainda identificam potenciais falhas nesses produtos e
+criam soluções de alta performance.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Requisito de software:são as ações que o software deve executar, possuindo características e condições próprias, de forma a automatizar uma tarefa de um processo de negócio
+Requisito de software:são as ações que o software deve executar, possuindo características e condições próprias, de forma a automatizar uma 
+tarefa de um processo de negócio
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistema:é um conjunto ordenado de elementos que se encontram interligados e que interagem entre si. O conceito é utilizado tanto para definir um conjunto de conceitos como objetos reais dotados de organização
+Sistema:é um conjunto ordenado de elementos que se encontram interligados e que interagem entre si. O conceito é utilizado tanto para definir
+um conjunto de conceitos como objetos reais dotados de organização
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistema informatizado ou computacional:é aquele que automatiza ou apoia a realização de atividades humanas através do processamento de informações
+Sistema informatizado ou computacional:é aquele que automatiza ou apoia a realização de atividades humanas através do processamento 
+de informações
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-update:é um termo inglês e significa “atualizar” ou “modernizar”. Esta palavra costuma ser utilizada para se referir às versões mais recentes de determinada tecnologia, como softwares, jogos eletrônicos e etc.
+update:é um termo inglês e significa “atualizar” ou “modernizar”. Esta palavra costuma ser utilizada para se referir às versões mais 
+recentes de determinada tecnologia, como softwares, jogos eletrônicos e etc.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-upgrade:significa “atualização” ou “melhoria”, normalmente utilizado para atualizar uma versão antiga para uma mais recente de um determinado produto.
+upgrade:significa “atualização” ou “melhoria”, normalmente utilizado para atualizar uma versão antiga para uma mais recente de um 
+determinado produto.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sistemas de informação empresariais:
 ERP
-Os sistemas Enterprise Resource Planning (ou planejamento de recursos da empresa) são softwares que integram diferentes processos e dados da empresa, reunindo-os em apenas um local.
+Os sistemas Enterprise Resource Planning (ou planejamento de recursos da empresa) são softwares que integram diferentes processos
+e dados da empresa, reunindo-os em apenas um local.
 Dessa forma, os dados de todos os departamentos da organização são integrados e armazenados.
-Os dados fornecidos pelos softwares ERP ajudam a trazer mais agilidade aos processos e permitem cumprir a produção por demanda, também chamada de just in time.
+Os dados fornecidos pelos softwares ERP ajudam a trazer mais agilidade aos processos e permitem cumprir a produção por demanda, 
+também chamada de just in time.
 
 CRM
-Os softwares Customer Relationship Management (ou gestão do relacionamento com os clientes) automatizam todas as funções relativas ao contato com os clientes, permitindo que as organizações coletem e armazenem os dados de contato, as preferências dos clientes, o histórico de compras deles etc.
+Os softwares Customer Relationship Management (ou gestão do relacionamento com os clientes) automatizam todas as funções relativas 
+ao contato com os clientes, permitindo que as organizações coletem e armazenem os dados de contato, as preferências dos clientes,
+o histórico de compras deles etc.
 
 SCM
-Já os sistemas Supply Chain Management (ou gestão da cadeia de fornecimento) integram os diferentes processos relativos os fornecedores de serviços, produtos e informações.
+Já os sistemas Supply Chain Management (ou gestão da cadeia de fornecimento) integram os diferentes processos relativos os fornecedores
+de serviços, produtos e informações.
 A finalidade é criar valor para o consumidor, satisfazendo-o quando ele adquire um produto ou serviço.
-Assim, esse tipo de software integra os dados relativos a fabricantes, fornecedores e pontos de venda, garantindo que os produtos sejam entregues nas quantidades necessárias e no prazo correto, evitando a falta de mercadorias e o excesso de estoque.
+Assim, esse tipo de software integra os dados relativos a fabricantes, fornecedores e pontos de venda, garantindo que os produtos sejam 
+entregues nas quantidades necessárias e no prazo correto, evitando a falta de mercadorias e o excesso de estoque.
 
 SIG
-Os Sistemas de Informação Gerenciais são bastante voltados para o apoio à tomada de decisões e atuam nos níveis estratégico, operacional e tático.
+Os Sistemas de Informação Gerenciais são bastante voltados para o apoio à tomada de decisões e atuam nos níveis estratégico, operacional
+e tático.
 As informações podem ser fornecidas por meio de gráficos, planilhas ou, mais comumente, relatórios.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistemas de colaboração: são aplicativos ou ferramentas que operam em redes que auxiliam o trabalho em equipe, ajudando na troca de informações e no fluxo de materiais, como planilhas, apresentações, documentos, arquivos, entre outros; e no fluxo de ideias, com pareceres, propostas etc.
+Sistemas de colaboração: são aplicativos ou ferramentas que operam em redes que auxiliam o trabalho em equipe, ajudando na troca de informações
+e no fluxo de materiais, como planilhas, apresentações, documentos, arquivos, entre outros; e no fluxo de ideias, com pareceres, propostas etc.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistemas de gestão da cadeia de suprimentos: O gerenciamento da cadeia de suprimentos (SCM, da sigla em inglês) refere-se à otimização da criação e do fluxo de um produto, desde a obtenção da matéria-prima até a produção, logística e entrega ao cliente final.
+Sistemas de gestão da cadeia de suprimentos: O gerenciamento da cadeia de suprimentos (SCM, da sigla em inglês) refere-se à otimização da
+criação e do fluxo de um produto, desde a obtenção da matéria-prima até a produção, logística e entrega ao cliente final.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistemas inteligentes de apoio à decisão: Sistemas de Apoio à Decisão auxiliam pessoas a tomarem decisões inteligentes e bem informadas sobre vários aspectos de uma operação
+Sistemas inteligentes de apoio à decisão: Sistemas de Apoio à Decisão auxiliam pessoas a tomarem decisões inteligentes e bem informadas sobre
+vários aspectos de uma operação
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sistemas de gestão do conhecimento: é uma ferramenta usada pelas empresas para ajudar a organizar documentos, perguntas frequentes e outras informações em formatos facilmente acessíveis tanto para clientes internos quanto externos
+Sistemas de gestão do conhecimento: é uma ferramenta usada pelas empresas para ajudar a organizar documentos, perguntas frequentes e outras
+informações em formatos facilmente acessíveis tanto para clientes internos quanto externos
